@@ -7,5 +7,5 @@ function cubeNumber(number) {
     return result
   }
 }
-let num1 = 4
+let num1 = 5
 console.log(cubeNumber(num1))
